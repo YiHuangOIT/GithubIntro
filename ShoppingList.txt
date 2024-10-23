@@ -9,4 +9,3 @@ Cereal
 Cucumbers
 Raddishes
 English-Walnuts
-Avocado
